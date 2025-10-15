@@ -1,4 +1,4 @@
-/* jshint esversion: 6, asi: true */
+/* jshint esversion: 8, asi: true */
 const express = require('express');
 const mongoose = require('mongoose');
 const fs = require('fs');
